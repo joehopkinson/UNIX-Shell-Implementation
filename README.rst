@@ -1,4 +1,5 @@
-# UNIX Shell in C
+UNIX Shell in C
+================
 
 - Simple shell commands
 - exit command
