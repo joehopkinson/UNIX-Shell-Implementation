@@ -11,6 +11,8 @@ UNIX Shell in C
 
 Created as part of the Operating Systems course at VU Amsterdam.
 
+shell.c & shell.h is my code, the additional framework was provided.
+
 The code received a 9.1/10
 
 Compiled with ``make`` and tested against the test library with ``make check``
