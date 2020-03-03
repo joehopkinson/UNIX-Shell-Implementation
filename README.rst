@@ -13,6 +13,8 @@ Created as part of the Operating Systems course at VU Amsterdam.
 
 The code received a 9.1/10
 
+Compiled with ``make`` and tested against the test library with ``make check``
+
 Example commands
 ================
 
