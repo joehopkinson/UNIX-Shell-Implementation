@@ -63,10 +63,6 @@ Example commands
    set hello=world; env | grep hello # prints "hello=world"
    (set top=down); env | grep top # does not print "top=down"
 
-   # custom PATH handling
-   mkdir /tmp/hai; touch /tmp/hai/waa; chmod +x /tmp/hai/waa
-   set PATH=/tmp/hai; waa # OK
-   unset PATH; waa # execvp() reports failure
 
 .. raw:: pdf
 
