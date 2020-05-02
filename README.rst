@@ -9,9 +9,7 @@ UNIX Shell in C
 - Command redirection
 - Environment Variables
 
-Created as part of the Operating Systems course at VU Amsterdam.
-
-shell.c & shell.h is my code, the additional framework was provided.
+Created as part of the Operating Systems course at VU Amsterdam. The framework was provided by the course.
 
 The code received a 9.1/10
 
