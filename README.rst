@@ -11,8 +11,6 @@ UNIX Shell in C
 
 Created as part of the Operating Systems course at VU Amsterdam. The framework was provided by the course.
 
-The code received a 9.1/10
-
 Compiled with ``make`` and tested against the test library with ``make check``
 
 Example commands
